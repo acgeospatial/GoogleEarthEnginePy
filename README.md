@@ -74,3 +74,5 @@ And to prove it is georeferenced, here is the OpenStreetMap data sitting behind 
 ![alt tag](http://www.acgeospatial.co.uk/wp-content/uploads/2016/12/image10-768x456.png)
 
 So, using Google Earth Engine is just like ordering a sandwich, only if you get it wrong you can keep ordering again and again and again. Just don’t ask for a medium tea.
+
+Do you want to find out about more of my work? http://www.acgeospatial.co.uk
