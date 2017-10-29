@@ -11,7 +11,7 @@ collection = ee.ImageCollection('LANDSAT/LC8_L1T_TOA')
 ##path = collection.filter(ee.Filter.eq('WRS_PATH', 160))
 ##pathrow = path.filter(ee.Filter.eq('WRS_ROW', 43))
 
-## Above commented out as you might not know the path and row
+## Above commented out as you might not know the path and row this allows you to pass a coordinate
 pointUAE = ee.Geometry.Point(55, 25)
 pathrow = collection.filterBounds(pointUAE)
  
