@@ -37,4 +37,4 @@ out = batch.Export.video.toDrive(outputVideo, description='dubai_video', dimensi
 ## process the image
 process = batch.Task.start(out)
 
-print "process sent to cloud"
+print ("process sent to cloud")
